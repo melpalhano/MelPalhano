@@ -1,4 +1,9 @@
+
+
+
 <!-- github stats -->
+
+
  <a href="https://github.com/farheen21/github-readme-stats"><img alt="Farheen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melpalhano&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
  <!-- most used languagens -->
@@ -10,7 +15,7 @@
 
 
 <!-- Profile vist counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melpalhano" alt="profile vist counter" /> </p>  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=melpalhano" alt="profile vist counter" /> </p>  
 <a href="https://github.com/melpalhano">
 
 
