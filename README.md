@@ -1,13 +1,15 @@
-
-
-
-<!-- github stats -->
-<p align="left"><a href="https://github.com/melpalhano/github-readme-stats"><img alt="Melissa Palhano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melpalhano&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
+<div>
+ <!-- github stats -->
+<p align="left"><a href="https://github.com/melpalhano/github-readme-stats"><img alt="Melissa Palhano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melpalhano&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
  <!-- most used languagens -->
- <a href="https://github.com/melpalhano/github-readme-stats"><img alt="Melissa Palhano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpalhano&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/melpalhano/github-readme-stats"><img alt="Melissa Palhano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpalhano&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</div>
 
- <!-- grafico -->
+
+
+
+
+<!-- grafico -->
  <a href="https://github.com/melpalhano/github-readme-activity-graph"><img alt="Melissa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=melpalhano&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
