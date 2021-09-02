@@ -18,3 +18,6 @@
 <a href="mailto:mlsspalhano@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=melpalhano" alt="profile vist counter" /> </p>  
+<a href="https://github.com/melpalhano"
+
