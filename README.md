@@ -1,9 +1,6 @@
 <div>
- 
- 
 <!-- github stats -->
 <!-- p align="left"><a href="https://github.com/melpalhano/github-readme-stats"><img alt="Melissa Palhano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melpalhano&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-
 
 
  <!-- most used languagens -->
@@ -11,10 +8,8 @@
 </div>
 
 
-
 <!-- grafico -->
  <a href="https://github.com/melpalhano/github-readme-activity-graph"><img alt="Melissa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=melpalhano&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 
 
 <!-- Profile vist counter -->
