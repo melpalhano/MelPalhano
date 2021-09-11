@@ -23,7 +23,7 @@
     <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <!-- Profile vist counter -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=melpalhano" alt="profile vist counter" /> </p>  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=melpalhano&color=blueviolet&label=profile+views" alt="profile vist counter" /> </p>  
 <a href="https://github.com/melpalhano">
 
 
