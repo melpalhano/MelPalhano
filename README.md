@@ -55,9 +55,6 @@
     <p align="right">
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
 
-<!--- computador 
-
-    <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <!-- Profile vist counter -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=melpalhano&color=blueviolet&label=profile+views" alt="profile vist counter" /> </p>  
