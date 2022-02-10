@@ -34,7 +34,7 @@ class melpalhano {
 const Me = new melpalhano();
 console.log(Me.informations);
 ```
-<br /><br /><br />
+<br /><br />
 
 <div>
 <img align='left' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
