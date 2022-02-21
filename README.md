@@ -20,7 +20,7 @@ class melpalhano {
       `Meu nome é ${this.nome}, e estou com foco em desenvolvimento Full Stack. \n` +
       `Tenho um perfil ${this.perfil[0]} e ${this.perfil[1]}. \n` +
       `Tecnologias que mais utilizo: ${this.tec[0]} ${this.tec[1]} e ${this.tec[2]}. \n` +
-      `Meu diferencial é a criatividade para resolver problemas de forma inovadora e eficiente. \n\n` +      
+      `Meu diferencial está na criatividade para resolver problemas de forma inovadora e eficiente. \n\n` +      
     );
   }
 }
