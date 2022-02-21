@@ -5,7 +5,6 @@ class melpalhano {
   constructor() {
     this.nome = "Melissa Palhano";
     this.perfil = ["analítico", "estratégico"];
-    this.faculdade = "B.I. Ciência e Tecnologia (UFMA)";
     this.tec = [
       "Javascript",
       "Typescript",
@@ -21,12 +20,7 @@ class melpalhano {
       `Meu nome é ${this.nome}, e estou com foco em desenvolvimento Full Stack. \n` +
       `Tenho um perfil ${this.perfil[0]} e ${this.perfil[1]}. \n` +
       `Tecnologias que mais utilizo: ${this.tec[0]} ${this.tec[1]} e ${this.tec[2]}. \n` +
-      `Meu diferencial é a criatividade para resolver problemas de forma inovadora e eficiente. \n\n` +
-      `Atualmente, estou me graduando em ${this.faculdade} \n` +
-      `E faço parte de diversos projetos integrados à Universidade: \n` +
-      `- Arm Digital - Desenvolvimento Web; \n` +
-      `- Sirius Sat - Carga Útil; \n` +
-      `- Zênite - Laboratório de Processamento de Imagem; `
+      `Meu diferencial é a criatividade para resolver problemas de forma inovadora e eficiente. \n\n` +      
     );
   }
 }
