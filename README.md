@@ -1,11 +1,11 @@
 <br />
 
 ```JS
-class melpalhano {
+class MelPalhano {
   constructor() {
-    this.nome = "Melissa Palhano";
-    this.perfil = ["analítico", "estratégico"];
-    this.tec = [
+    this.name = "Melissa Palhano";
+    this.profile = ["analytical", "strategic"];
+    this.tech = [
       "Javascript",
       "Typescript",
       `Python`,
@@ -17,15 +17,15 @@ class melpalhano {
     const today = new Date();
 
     return (
-      `Meu nome é ${this.nome}, e estou com foco em desenvolvimento Full Stack. \n` +
-      `Tenho um perfil ${this.perfil[0]} e ${this.perfil[1]}. \n` +
-      `Tecnologias que mais utilizo: ${this.tec[0]} ${this.tec[1]} e ${this.tec[2]}. \n` +
-      `Meu diferencial está na criatividade para resolver problemas de forma inovadora e eficiente. \n\n` +      
+      `My name is ${this.name} and I'm focusing on Full Stack development (sometimes also A.I.). \n` +
+      `I have an ${this.profile[0]} and ${this.profile[1]} profile. \n` +
+      `Technologies I use the most: ${this.tech[0]}, ${this.tech[1]} e ${this.tech[2]}. \n` +
+      `My differential is in the creativity to solve problems in an innovative and efficient way. \n\n`      
     );
   }
 }
 
-const Me = new melpalhano();
+const Me = new MelPalhano();
 console.log(Me.informations);
 ```
 <br />
