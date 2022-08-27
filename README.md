@@ -9,7 +9,7 @@ class MelPalhano {
       "Javascript",
       "Typescript",
       `Python`,
-      { "Frameworks/Bibliotecas": ["React.js", "Next.js"] },
+      { "Framework/Library": ["React.js", "Next.js"] },
     ];
   }
 
