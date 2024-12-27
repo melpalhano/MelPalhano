@@ -1,42 +1,18 @@
-<br />
+### Hey you, welcome to my GitHub profile! ✨
 
-```JS
-class MelPalhano {
-  constructor() {
-    this.name = "Melissa Palhano";
-    this.profile = ["analytical", "strategic"];
-    this.tech = [
-      "Javascript",
-      "Typescript",
-      `Python`,
-      { "Framework/Library": ["React.js", "Next.js"] },
-    ];
-  }
+I'm Melissa Palhano, passionate about turning ideas into innovative and impactful tech solutions.
 
-  get informations() {
-    const today = new Date();
+* 💻 Software Developer focused on modern and scalable architectures;
+* 👩‍💻 GitHub Campus Expert passionate about sharing knowledge;
+* 🌱 Continuous learning and new technologies enthusiast;
+* 🤝 Active contributor to open source projects and tech communities.
 
-    return (
-      `My name is ${this.name} and I'm focusing on Full Stack development (sometimes also A.I.). \n` +
-      `I have an ${this.profile[0]} and ${this.profile[1]} profile. \n` +
-      `Technologies I use the most: ${this.tech[0]}, ${this.tech[1]} e ${this.tech[2]}. \n` +
-      `My differential is in the creativity to solve problems in an innovative and efficient way. \n\n`      
-    );
-  }
-}
+### Tech Stack
 
-const Me = new MelPalhano();
-console.log(Me.informations);
-```
-<br />
-
-<div>
-<img align='left' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
-  
-<br />
-
-<p align="left"><a href="https://github.com/melpalhano/github-readme-stats"><img alt="Melissa Palhano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpalhano&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<p align="right"><a href="https://github.com/melpalhano?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-034C89?style=for-the-badge&logo=python&logoColor=white)
+![C-Sharp](https://img.shields.io/badge/C--Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
